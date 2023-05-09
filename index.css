@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap');
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: url('foto.jpg');
+    background-size: cover;
+    color: whitesmoke;
+    font-family: 'Montserrat';
+}
+
+.container {
+    padding: 10em 4em;
+}
+
+h1 {
+    font-size: 3em;
+    margin-bottom: 0;
+   
+}
+p {
+    padding-left: 1.5em;
+    border-left: 2px solid gray;
+    font-size: 1.3em;
+    color: grey;
+
+}
+
+/*
+
+- White Space
+- Color 
+- Contrast 
+- Scale
+- Alignment
+- Typography
+- Visual Hierarchy
+
+*/
